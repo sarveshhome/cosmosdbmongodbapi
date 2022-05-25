@@ -10,5 +10,10 @@
 
 `dotnet sln add CosmosBookApi.csproj`
 
+`dotnet add package Microsoft.Azure.Functions.Extensions`
+
+### swagger URL
+
+https://localhost:7152/Swagger/index.html
 
 
